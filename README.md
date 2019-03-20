@@ -2,7 +2,11 @@
 
 SRU based acoustic model for merlin
 ---------------
-author DabiaoMa ZhibaSu WenxuanWang ChengZou YuhaoLu @ Turing Robot 
+SRU introduction
+>Tao Lei《Simple Recurrent Units for Highly Parallelizable Recurrence》 https://arxiv.org/pdf/1709.02755.pdf
+
+
+DabiaoMa ZhibaSu WenxuanWang ChengZou YuhaoLu @ Turing Robot 
 
 data_preprocess
 
